@@ -20,11 +20,9 @@ Vulnerability Scan Lab
 3. Analyze results and prioritize risks
 4. Write remediation recommendations
 
-#  Screenshots
-
 
 # Report
-
+Sambavuln.pdf
 
 # What I Learned
 - How to run vulnerability scans
